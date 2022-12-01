@@ -1,4 +1,4 @@
-# Semi-supervised Node Classification with Imbalanced Receptive Field
+# Graph Neural Networks with Imbalanced Data Distribution
 
 ## Introduction
 This repository is the implementation of BIM. 
